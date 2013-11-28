@@ -1,4 +1,4 @@
-single-message-xenode
+Single Message Xenode
 =====================
 
 **Single Message Xenode** sends pre-defined message context, data, and command to all of its downstream children. It is ideal for testing your Xenodes.
