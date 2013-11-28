@@ -37,7 +37,7 @@
 #
 
 class SingleMessageXenode
-  include XenoCore::NodeBase
+  include XenoCore::XenodeBase
   
   # This xenode uses the startup to send
   # a single message to it's children.
