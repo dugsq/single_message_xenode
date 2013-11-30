@@ -1,7 +1,9 @@
 Single Message Xenode
 =====================
 
-**Single Message Xenode** sends pre-defined message context, data, and command to all of its downstream children. It is ideal for testing your Xenodes.
+Note: you will need the Xenograte Community Toolkit (XCT) to run this Xenode. Refer to the XCT repo [https://github.com/Nodally/xenograte-xct](https://github.com/Nodally/xenograte-xct) for more information.
+
+**Single Message Xenode** sends a pre-defined message with its context, data, and/or command to all of its children Xenode. It is ideal for testing your Xenodes.
 
 ###Configuration File Options:###
 * loop_delay: defines number of seconds the Xenode waits before running the Xenode process. Expects a float. 
